@@ -19,5 +19,5 @@ io.on('connection', function(socket){
 });
 
 http.listen(PORT, function(){
-  console.log('listening on *:' + app.address().port);
+  console.log('Server listening');
 });
