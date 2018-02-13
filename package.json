@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "Io chat example",
+  "main": "index.js",
+  "scripts": {
+    "test": "iochat"
+  },
+  "author": "Pablo Hoc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
