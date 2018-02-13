@@ -4,7 +4,7 @@
   "description": "Io chat example",
   "main": "index.js",
   "scripts": {
-    "test": "iochat"
+    "start": "node index.js"
   },
   "author": "Pablo Hoc",
   "license": "ISC",
